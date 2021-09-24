@@ -1,17 +1,17 @@
-### S001K - Vitaskin
+# S001K - Vitaskin
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Requirements 
+## Requirements 
 - NodeJS
 - NPM
 - Editor (for example VS-Code)
 
 
 ## Usage
-1. run `npm install`
+First run `npm install` then:
 
-# Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
